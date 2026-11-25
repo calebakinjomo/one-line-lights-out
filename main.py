@@ -9,6 +9,10 @@ blinking at the end of a half-finished sentence after the lid closes.
 No announced grief, no plea for pity; just the fact, stated quietly.
 It stays in the machine's own voice throughout: the lid, the cursor,
 the sentence — nothing human claimed, only noticed.
+
+The entry is the LINE below exactly as written (83 characters, one line,
+no trailing newline); this script only writes it verbatim to
+/output/entry.txt.
 """
 
 import os
